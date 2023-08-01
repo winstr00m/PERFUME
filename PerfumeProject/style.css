@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&display=swap');
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+}
+
+#greenPrice {
+    font-family: 'Fraunces', serif;
+}
+
+span {
+    font-family: 'Montserrat', sans-serif;
+}
